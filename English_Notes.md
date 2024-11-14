@@ -54,7 +54,7 @@ Dr. Cal Newport introduces the idea of slow productivity, which means that you m
 
 # Vocabulary:
 
-**idle:** not active or in use, doing nothing. "During the long summer days, they preferred to sit idle on the porch, watching the world go by.
-**seesaw:** A long plank balanced in the middle on a fixed point (fulcrum) that moves up and down; it can also refer to a situation that moves back and forth between extremes. "The stock market has been on a seesaw, fluctuating wildly between gains and losses."
-**grind:** To reduce something to small particles or powder by crushing it; it can also mean to work hard at something persistently. "She had to grind through her homework every night to stay on top of her classes."
+**idle:** not active or in use, doing nothing. "During the long summer days, they preferred to sit idle on the porch, watching the world go by.  
+**seesaw:** A long plank balanced in the middle on a fixed point (fulcrum) that moves up and down; it can also refer to a situation that moves back and forth between extremes. "The stock market has been on a seesaw, fluctuating wildly between gains and losses."  
+**grind:** To reduce something to small particles or powder by crushing it; it can also mean to work hard at something persistently. "She had to grind through her homework every night to stay on top of her classes."  
 **heels:** The back part of the foot below the ankle; it can also refer to high-heeled shoes. "She decided to wear her red heels for the evening gala."
